@@ -12,4 +12,4 @@ git clone "https://github.com/sudarsankumar/Dark-or-light-theme-toggle.git"
 ```
 
 ## demo link
-[Piano Tiles](https://sudarsankumar.github.io/Dark-or-light-theme-toggle/)
+[Theme toggler](https://sudarsankumar.github.io/Dark-or-light-theme-toggle/)
